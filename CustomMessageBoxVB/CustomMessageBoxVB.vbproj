@@ -72,13 +72,20 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FormMessageBox.Designer.vb">
-      <DependentUpon>FormMessageBox.vb</DependentUpon>
+    <Compile Include="CustomInputDate.vb" />
+    <Compile Include="InputDateForm.designer.vb">
+      <DependentUpon>InputDateForm.vb</DependentUpon>
     </Compile>
-    <Compile Include="FormMessageBox.vb">
+    <Compile Include="InputDateForm.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="RJMessageBox.vb" />
+    <Compile Include="MessageBoxForm.Designer.vb">
+      <DependentUpon>MessageBoxForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBoxForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomMessageBox.vb" />
     <Compile Include="Test\Form1.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -103,8 +110,11 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="FormMessageBox.resx">
-      <DependentUpon>FormMessageBox.vb</DependentUpon>
+    <EmbeddedResource Include="InputDateForm.resx">
+      <DependentUpon>InputDateForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxForm.resx">
+      <DependentUpon>MessageBoxForm.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

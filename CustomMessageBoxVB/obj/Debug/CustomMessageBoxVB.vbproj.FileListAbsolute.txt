@@ -11,3 +11,31 @@ D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\obj
 D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.exe
 D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.xml
 D:\RJ Code Advance\Source Code VB\2022\CustomMessageBoxVB\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.pdb
+G:\Users\cochoa\Desktop\TEMPPPP\VB-CustomMessageBox\CustomMessageBoxVB\bin\Debug\CustomMessageBoxVB.exe.config
+G:\Users\cochoa\Desktop\TEMPPPP\VB-CustomMessageBox\CustomMessageBoxVB\bin\Debug\CustomMessageBoxVB.exe
+G:\Users\cochoa\Desktop\TEMPPPP\VB-CustomMessageBox\CustomMessageBoxVB\bin\Debug\CustomMessageBoxVB.pdb
+G:\Users\cochoa\Desktop\TEMPPPP\VB-CustomMessageBox\CustomMessageBoxVB\bin\Debug\CustomMessageBoxVB.xml
+G:\Users\cochoa\Desktop\TEMPPPP\VB-CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.vbproj.AssemblyReference.cache
+G:\Users\cochoa\Desktop\TEMPPPP\VB-CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.Resources.resources
+G:\Users\cochoa\Desktop\TEMPPPP\VB-CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.Form1.resources
+G:\Users\cochoa\Desktop\TEMPPPP\VB-CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.vbproj.GenerateResource.cache
+G:\Users\cochoa\Desktop\TEMPPPP\VB-CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.vbproj.CoreCompileInputs.cache
+G:\Users\cochoa\Desktop\TEMPPPP\VB-CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.exe
+G:\Users\cochoa\Desktop\TEMPPPP\VB-CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.xml
+G:\Users\cochoa\Desktop\TEMPPPP\VB-CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.pdb
+G:\Users\cochoa\Desktop\TEMPPPP\VB-CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.InputDateForm.resources
+G:\Users\cochoa\Desktop\TEMPPPP\VB-CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.MessageBoxForm.resources
+G:\ShaneDev\Desarrollos\CustomMessageBox\CustomMessageBoxVB\bin\Debug\CustomMessageBoxVB.exe.config
+G:\ShaneDev\Desarrollos\CustomMessageBox\CustomMessageBoxVB\bin\Debug\CustomMessageBoxVB.exe
+G:\ShaneDev\Desarrollos\CustomMessageBox\CustomMessageBoxVB\bin\Debug\CustomMessageBoxVB.pdb
+G:\ShaneDev\Desarrollos\CustomMessageBox\CustomMessageBoxVB\bin\Debug\CustomMessageBoxVB.xml
+G:\ShaneDev\Desarrollos\CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.vbproj.AssemblyReference.cache
+G:\ShaneDev\Desarrollos\CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.InputDateForm.resources
+G:\ShaneDev\Desarrollos\CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.MessageBoxForm.resources
+G:\ShaneDev\Desarrollos\CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.Resources.resources
+G:\ShaneDev\Desarrollos\CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.Form1.resources
+G:\ShaneDev\Desarrollos\CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.vbproj.GenerateResource.cache
+G:\ShaneDev\Desarrollos\CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.vbproj.CoreCompileInputs.cache
+G:\ShaneDev\Desarrollos\CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.exe
+G:\ShaneDev\Desarrollos\CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.xml
+G:\ShaneDev\Desarrollos\CustomMessageBox\CustomMessageBoxVB\obj\Debug\CustomMessageBoxVB.pdb

@@ -45,6 +45,7 @@ Partial Class Form1
         Me.btnMsgTextCaption2 = New System.Windows.Forms.Button()
         Me.btnMsgRetryCancel = New System.Windows.Forms.Button()
         Me.tableLayoutPanel1 = New System.Windows.Forms.TableLayoutPanel()
+        Me.btnInputDateTest = New System.Windows.Forms.Button()
         Me.tableLayoutPanel1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -416,6 +417,7 @@ Partial Class Form1
         Me.tableLayoutPanel1.Controls.Add(Me.btnMsgYesNoCancel, 2, 5)
         Me.tableLayoutPanel1.Controls.Add(Me.btnMsgTextCaption2, 1, 2)
         Me.tableLayoutPanel1.Controls.Add(Me.btnMsgRetryCancel, 2, 6)
+        Me.tableLayoutPanel1.Controls.Add(Me.btnInputDateTest, 4, 6)
         Me.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Top
         Me.tableLayoutPanel1.Location = New System.Drawing.Point(0, 0)
         Me.tableLayoutPanel1.Name = "tableLayoutPanel1"
@@ -429,6 +431,21 @@ Partial Class Form1
         Me.tableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 75.0!))
         Me.tableLayoutPanel1.Size = New System.Drawing.Size(1284, 520)
         Me.tableLayoutPanel1.TabIndex = 2
+        '
+        'btnInputDateTest
+        '
+        Me.btnInputDateTest.BackColor = System.Drawing.Color.SteelBlue
+        Me.btnInputDateTest.FlatAppearance.BorderSize = 0
+        Me.btnInputDateTest.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnInputDateTest.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnInputDateTest.ForeColor = System.Drawing.Color.White
+        Me.btnInputDateTest.Location = New System.Drawing.Point(1039, 460)
+        Me.btnInputDateTest.Margin = New System.Windows.Forms.Padding(15)
+        Me.btnInputDateTest.Name = "btnInputDateTest"
+        Me.btnInputDateTest.Size = New System.Drawing.Size(226, 45)
+        Me.btnInputDateTest.TabIndex = 21
+        Me.btnInputDateTest.Text = "Date"
+        Me.btnInputDateTest.UseVisualStyleBackColor = False
         '
         'Form1
         '
@@ -468,4 +485,5 @@ Partial Class Form1
     Private WithEvents btnMsgTextCaption2 As Button
     Private WithEvents btnMsgRetryCancel As Button
     Private WithEvents tableLayoutPanel1 As TableLayoutPanel
+    Private WithEvents btnInputDateTest As Button
 End Class
